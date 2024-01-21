@@ -1,0 +1,2 @@
+# Index_Fund_Optimization_Using_Integer_Programming
+MSBA_Fall2023_Optimization_I
